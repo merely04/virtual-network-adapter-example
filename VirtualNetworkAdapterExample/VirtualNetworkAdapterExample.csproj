@@ -18,7 +18,6 @@
     </ItemGroup>
 
     <ItemGroup>
-      <None Remove="Resources\devcon.exe" />
       <EmbeddedResource Include="Resources\devcon.exe" />
     </ItemGroup>
 
